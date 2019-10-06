@@ -118,7 +118,7 @@ public class LoginPageTests extends TestBase {
 
         // ------ Check that we on the HomePage for authorized user---
         System.out.println("We logged in: "
-                + profileIcon.getAttribute("title").contains("marinaA"));
+                + profileIcon.getAttribute("title").contains("my140013"));
 
 
     }
